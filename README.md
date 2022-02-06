@@ -1,1 +1,1 @@
-Przejdź do folderu Lista Gifów!
+Przejdź do folderu Lista gifów!
